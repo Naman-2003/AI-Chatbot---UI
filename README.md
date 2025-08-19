@@ -1,9 +1,3 @@
-AI chatbot Readme file for github
-
-Here's a great template for an **AI Chatbot project README file** that you can use for your GitHub repository:
-
-***
-
 # AI Chatbot
 
 An intelligent AI chatbot that understands natural language input and responds conversationally. Built to be extensible, customizable, and easy to deploy on your machine or server.
